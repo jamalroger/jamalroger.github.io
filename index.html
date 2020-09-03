@@ -1,114 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
 
-<head>
-    <meta charset="utf-8">
-
-    <title> BELHARRADI JAMAL </title>
+    <title>BELHARRADI JAMAL</title>
     <!-- META TAG -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <!-- ADDITIONAL CSS -->
-    <link rel="stylesheet" href="http://demo.deviserweb.com/cv/assets/css/animate.css">
-    <!-- FONTS -->
-    <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,700,400italic,700italic' rel='stylesheet'
-        type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css"
+      integrity="sha512-ADrqa2PY1TZtb/MoLZIZu/Z/LlPaWQeDMBV73EMwjGam43/JJ5fqW38Rq8LJOVGCDfrJeOMS3Q/wRUVzW5DkjQ=="
+      crossorigin="anonymous"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+    />
     <!--FONTAWESOME CSS-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- CUSTOM STYLE -->
-    <link href="http://demo.deviserweb.com/cv/assets/css/style.css" rel="stylesheet">
-    <style>
-        .c div {
-            margin-left: 30px;
-
-        }
-
-        .c span {
-            margin-left: 60px;
-        }
-
-        .c {
-            margin-left: 30px;
-        }
-
-        .cc h3 {
-            color: darkcyan;
-        }
-    </style>
-</head>
-
-<body style="padding: 15px;">
-    <!-- Start Container-->
-    <div class="container">
-        <!-- Start Sidebar -->
-        <section class="sidebar z-depth-1" id="sidebar" style="margin-bottom: ;">
-            <!--  Sidebar row -->
-            <div class="row" style="margin-bottom: 0px;">
-                <div class="col s6" style="padding: 0;">
-                    <a href="#"><img src="https://avatars0.githubusercontent.com/u/36031772?s=460&v=4"
-                            class="responsive-img" alt=""></a>
-                </div>
-                <div class="title col s6 wow fadeIn" data-wow-delay="0.1s">
-                    <h2>BELHARRADI JAMAL</h2>
-                    <span>Full stack Developper</span>
-                    <div class="social-links">
-                        <a href="https://twitter.com/BelharradiJamal" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="https://web.facebook.com/jamal.roger.376" class="facebook" target="_blank"><i
-                                class="fa fa-facebook"></i></a>
-                        <a href="https://www.linkedin.com/in/belharrady/" class="linkedin" target="_blank"><i
-                                class="fa fa-linkedin"></i></a>
-                        <a href="https://github.com/jamalroger" class="github"><i class="fa fa-github"></i></a>
-                        <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-                    </div>
-                    <p>
-                        A young and competent developer in web and desktop applications development with
-                        knowledge in addition to 5 programming languages.
-                        "You want it, you can do it"
-
-                    </p>
-                    <span>
-                        <i class="fa fa-envelope"></i> <a href="maito:belharradi.j@gmail.com">Belharradi.j@gmail.com</a>
-                    </span>
-                    <br>
-                    <br>
-                    <span>
-                        <i class="fa fa-phone"></i> <a href="tel:555-555-5555">(+212)6-75-51-59-06</a>
-                    </span>
-                    <br>
-                    <br>
-                    <span>
-                        <i class="fa fa-home"></i>
-                        El jadida Maroc
-                    </span>
-                    <br>
-                    <br>
-                    <span>
-                        <i class="fa fa-language"></i> Arabic,French,English
-                    </span>
-                    <br>
-                    <br>
-                    <span>
-                        <i class="fa fa-book"></i> sport,Readding
-                    </span>
-                </div>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="./css/main.css" rel="stylesheet" />
+  </head>
+  <body style="display: none">
+    <div class="container top">
+      <div class="box-content">
+        <div class="columns">
+          <div class="column is-centred no-padding">
+            <img
+              src="https://avatars0.githubusercontent.com/u/36031772?s=460&amp;v=4"
+              alt=""
+              class="r-img"
+            />
+          </div>
+          <div class="column is-8 content">
+            <h2 id="name"></h2>
+            <span id="dev"></span>
+            <div class="social-links">
+              <a href="https://twitter.com/BelharradiJamal" class="twitter"
+                ><i class="fa fa-twitter"></i
+              ></a>
+              <a
+                href="https://web.facebook.com/jamal.roger.376"
+                class="facebook"
+                target="_blank"
+                ><i class="fa fa-facebook"></i
+              ></a>
+              <a
+                href="https://www.linkedin.com/in/belharrady/"
+                class="linkedin"
+                target="_blank"
+                ><i class="fa fa-linkedin"></i
+              ></a>
+              <a href="https://github.com/jamalroger" class="github"
+                ><i class="fa fa-github"></i
+              ></a>
             </div>
+            <span>
+              <i class="fa fa-envelope"></i>
+              <a href="maito:belharradi.j@gmail.com"> Belharradi.j@gmail.com</a>
+            </span>
+            <br />
 
-        </section>
+            <span
+              ><i class="fa fa-phone"></i>
+              <a href="tel:555-555-5555"> (+212)6-75-51-59-06</a>
+            </span>
+            <br />
 
-    </div> <!-- end container -->
-    <!--===================== JavaScript ===================== -->
-    <!-- Jquery core js-->
-    <script src="http://demo.deviserweb.com/cv/assets/js/jquery.min.js"></script>
-    <!-- materialize js-->
-    <script src="http://demo.deviserweb.com/cv/assets/js/materialize.min.js"></script>
-    <!-- wow js-->
-    <script src="http://demo.deviserweb.com/cv/assets/js/wow.min.js"></script>
-    <!-- Customized js -->
-    <script src="http://demo.deviserweb.com/cv/assets/js/init.js"></script>
-
-</body>
-
+            <span>
+              <i class="fa fa-home"></i>
+              El jadida Maroc
+            </span>
+            <br />
+            <span> <i class="fa fa-language"></i> Arabic,French,English </span>
+            <br />
+            <span> <i class="fa fa-book"></i> sport,Readding </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      window.onload = function () {
+        var body = document.querySelector("body");
+        var ele = document.createElement("script");
+        ele.type = "text/javascript";
+        ele.src = "./js/main.js";
+        body.appendChild(ele);
+        body.style.display = "block";
+      };
+    </script>
+  </body>
 </html>
