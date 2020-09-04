@@ -1,4 +1,11 @@
-// animate css
+const removeLoader = function(){
+  var content = document.querySelector("#content");
+  var loader = document.querySelector("#preloader");
+  loader.style.display = "none";
+  content.style.display = "block";
+};
+
+// animate function css
 const animateCSS = function (element, animation, prefix = "animate__") {
   // We create a Promise and return it
   new Promise((resolve, reject) => {
@@ -19,17 +26,23 @@ const animateCSS = function (element, animation, prefix = "animate__") {
   });
 };
 
-new TypeIt("#name", {
-  strings: "BELHARRADI JAMAL",
-  speed: 75,
-  cursor: false,
-  afterComplete: async (step, instance) => {
-    new TypeIt("#dev", {
-      strings: "Full stack Developper",
-      speed: 50,
-      cursor: false,
-    }).go();
-  },
-}).go();
-
-animateCSS(".r-img", "slideInLeft");
+function afterLoaded() {
+  removeLoader();
+  animateCSS(".r-img", "slideInLeft");
+  new TypeIt("#name", {
+    strings: "BELHARRADI JAMAL",
+    speed: 75,
+    cursor: false,
+    afterComplete: function (step, instance) {
+      new TypeIt("#dev", {
+        strings: "Full stack Developper",
+        speed: 50,
+        cursor: false,
+        afterComplete: function () {
+          document.querySelector("#info").style.display = "block";
+          animateCSS("#info", "slideInLeft");
+        },
+      }).go();
+    },
+  }).go();
+}
