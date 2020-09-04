@@ -10,7 +10,7 @@ html {
   padding: 0px !important;
 }
 .content {
-  padding: 5px;
+  padding: 20px;
   border: 1px solid #eee;
   background: #fff;
 }
@@ -26,7 +26,7 @@ html {
 
 a  i {
   font-size: 30px !important;
-  padding: 5px;
+  padding: 20px;
 }
 
 #preloader {

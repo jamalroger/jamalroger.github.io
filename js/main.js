@@ -44,7 +44,7 @@ function afterLoaded() {
           location.href = "#des";
           new TypeIt("#des", {
             strings:
-              "web & mobile Developer using the new technologie like Laravel, Django, ExpressJS, React, Angular, Vuejs, cordova, capacitor for information,projects and contact see bellow  &#128526; &#x2193;&#x2193;",
+              "Web & mobile developer using the latest technologies like Laravel, Django, ExpressJS, React, Angular, Vuejs, Cordova, Capacitor, for more information, see bellow  &#128526; &#x2193;&#x2193;",
             speed: 50,
             cursor: false,
             afterStep: async (step, instance) => {
