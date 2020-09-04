@@ -1,4 +1,4 @@
-const removeLoader = function(){
+const removeLoader = function () {
   var content = document.querySelector("#content");
   var loader = document.querySelector("#preloader");
   loader.style.display = "none";
@@ -29,18 +29,33 @@ const animateCSS = function (element, animation, prefix = "animate__") {
 function afterLoaded() {
   removeLoader();
   animateCSS(".r-img", "slideInLeft");
+  location.href = "#name";
   new TypeIt("#name", {
     strings: "BELHARRADI JAMAL",
     speed: 75,
     cursor: false,
     afterComplete: function (step, instance) {
+      location.href = "#dev";
       new TypeIt("#dev", {
-        strings: "Full stack Developper",
+        strings: "Full stack Developer",
         speed: 50,
         cursor: false,
         afterComplete: function () {
-          document.querySelector("#info").style.display = "block";
-          animateCSS("#info", "slideInLeft");
+          location.href = "#des";
+          new TypeIt("#des", {
+            strings:
+              "web & mobile Developer using the new technologie like Laravel, Django, ExpressJS, React, Angular, Vuejs, cordova, capacitor for information,projects and contact see bellow  &#128526; &#x2193;&#x2193;",
+            speed: 50,
+            cursor: false,
+            afterStep: async (step, instance) => {
+              location.href = "#des";
+            },
+            afterComplete: function () {
+              document.querySelector("#info").style.display = "block";
+              location.href = "#info";
+              animateCSS("#info", "slideInLeft");
+            },
+          }).go();
         },
       }).go();
     },
