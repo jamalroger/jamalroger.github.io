@@ -1,0 +1,110 @@
+<svg id="hero-svg" class="" viewBox="0 0 950 513" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin slice" style="/* visibility: visible; */">
+    <defs>
+        <linearGradient id="heroGrad" data-name="New Gradient Swatch 6" x1="475.23" y1="661" x2="475.23" gradientUnits="userSpaceOnUse">
+            <stop offset="0.25" stop-color="#fff"></stop>
+            <stop offset="0.32" stop-color="#cef2fc"></stop>
+            <stop offset="0.41" stop-color="#a2e6f9"></stop>
+            <stop offset="0.49" stop-color="#7bdbf7"></stop>
+            <stop offset="0.58" stop-color="#5cd3f5"></stop>
+            <stop offset="0.67" stop-color="#44ccf4"></stop>
+            <stop offset="0.77" stop-color="#32c8f3"></stop>
+            <stop offset="0.87" stop-color="#28c5f2"></stop>
+            <stop offset="1" stop-color="#25c4f2"></stop>
+        </linearGradient>
+
+    </defs>
+    <g class="whole">
+        <g class="allComets">
+            <g class="cometGroup1" fill="#25C4F2">
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.43242,-0.90167,0.90167,-0.43242,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 1;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.40966,-0.85421,0.85421,-0.40966,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.947368;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.3869,-0.80675,0.80675,-0.3869,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.894737;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.36414,-0.7593,0.7593,-0.36414,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.842105;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.34138,-0.71184,0.71184,-0.34138,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.789474;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.31862,-0.66439,0.66439,-0.31862,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.736842;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.29586,-0.61693,0.61693,-0.29586,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.684211;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.2731,-0.56947,0.56947,-0.2731,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.631579;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.25034,-0.52202,0.52202,-0.25034,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.578947;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.22758,-0.47456,0.47456,-0.22758,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.526316;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.20483,-0.4271,0.4271,-0.20483,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.473684;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.18207,-0.37965,0.37965,-0.18207,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.421053;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.15931,-0.33219,0.33219,-0.15931,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.368421;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.13655,-0.28473,0.28473,-0.13655,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.315789;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.11379,-0.23728,0.23728,-0.11379,0.5,0.5)" style="transform-origin: 0px 0px 0px; opacity: 0.263158;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.09103,-0.18982,0.18982,-0.09103,0.7848646344045562,1.0939929821402075)" style="transform-origin: 0px 0px 0px; opacity: 0.210526;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.06827,-0.14236,0.14236,-0.06827,2.921349392431779,5.548940348176927)" style="transform-origin: 0px 0px 0px; opacity: 0.157895;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.04551,-0.09491,0.09491,-0.04551,5.057834150459172,10.003887714214102)" style="transform-origin: 0px 0px 0px; opacity: 0.105263;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.02275,-0.04745,0.04745,-0.02275,7.194318908486366,14.458835080250878)" style="transform-origin: 0px 0px 0px; opacity: 0.0526316;"></ellipse>
+            </g>
+            <g class="cometGroup2" fill="#25C4F2">
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.43243,0.90166,-0.90166,0.43243,820.1854343508535,389.8222970068029)" style="transform-origin: 0px 0px 0px; opacity: 1;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.40967,0.85421,-0.85421,0.40967,818.404984654355,386.10986279933735)" style="transform-origin: 0px 0px 0px; opacity: 0.947368;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.38691,0.80675,-0.80675,0.38691,816.6245349578564,382.3974285918719)" style="transform-origin: 0px 0px 0px; opacity: 0.894737;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.36415,0.75929,-0.75929,0.36415,814.8440852613578,378.6849943844064)" style="transform-origin: 0px 0px 0px; opacity: 0.842105;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.34139,0.71184,-0.71184,0.34139,813.0636355648595,374.9725601769414)" style="transform-origin: 0px 0px 0px; opacity: 0.789474;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.31863,0.66438,-0.66438,0.31863,811.2831858683608,371.26012596947567)" style="transform-origin: 0px 0px 0px; opacity: 0.736842;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.29587,0.61692,-0.61692,0.29587,809.5027361718624,367.54769176201034)" style="transform-origin: 0px 0px 0px; opacity: 0.684211;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.27311,0.56947,-0.56947,0.27311,807.7222864753638,363.8352575545449)" style="transform-origin: 0px 0px 0px; opacity: 0.631579;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.25035,0.52201,-0.52201,0.25035,805.9418367788653,360.1228233470796)" style="transform-origin: 0px 0px 0px; opacity: 0.578947;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.22759,0.47456,-0.47456,0.22759,804.1613870823667,356.4103891396139)" style="transform-origin: 0px 0px 0px; opacity: 0.526316;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.20483,0.4271,-0.4271,0.20483,802.3809373858683,352.6979549321488)" style="transform-origin: 0px 0px 0px; opacity: 0.473684;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.18207,0.37964,-0.37964,0.18207,800.6004876893697,348.9855207246834)" style="transform-origin: 0px 0px 0px; opacity: 0.421053;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.15931,0.33219,-0.33219,0.15931,798.8200379928712,345.27308651721785)" style="transform-origin: 0px 0px 0px; opacity: 0.368421;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.13655,0.28473,-0.28473,0.13655,797.0395882963726,341.5606523097523)" style="transform-origin: 0px 0px 0px; opacity: 0.315789;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.11379,0.23728,-0.23728,0.11379,795.2591385998742,337.8482181022871)" style="transform-origin: 0px 0px 0px; opacity: 0.263158;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.09103,0.18982,-0.18982,0.09103,793.4786889033755,334.13578389482143)" style="transform-origin: 0px 0px 0px; opacity: 0.210526;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.06827,0.14236,-0.14236,0.06827,791.6982392068771,330.4233496873563)" style="transform-origin: 0px 0px 0px; opacity: 0.157895;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.04551,0.09491,-0.09491,0.04551,789.9177895103785,326.7109154798909)" style="transform-origin: 0px 0px 0px; opacity: 0.105263;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.02275,0.04745,-0.04745,0.02275,788.13733981388,322.99848127242535)" style="transform-origin: 0px 0px 0px; opacity: 0.0526316;"></ellipse>
+            </g>
+            <g class="cometGroup3" fill="#25C4F2">
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.43242,-0.90167,0.90167,-0.43242,430.99107037008946,238.19147745563964)" style="transform-origin: 0px 0px 0px; opacity: 1;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.40966,-0.85421,0.85421,-0.40966,433.0258177586869,242.43428447091287)" style="transform-origin: 0px 0px 0px; opacity: 0.947368;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.3869,-0.80675,0.80675,-0.3869,435.0605651472843,246.67709148618616)" style="transform-origin: 0px 0px 0px; opacity: 0.894737;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.36414,-0.7593,0.7593,-0.36414,437.09531253588165,250.91989850145927)" style="transform-origin: 0px 0px 0px; opacity: 0.842105;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.34138,-0.71184,0.71184,-0.34138,439.13005992447904,255.1627055167325)" style="transform-origin: 0px 0px 0px; opacity: 0.789474;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.31862,-0.66439,0.66439,-0.31862,441.1648073130766,259.405512532006)" style="transform-origin: 0px 0px 0px; opacity: 0.736842;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.29586,-0.61693,0.61693,-0.29586,443.19955470167395,263.64831954727924)" style="transform-origin: 0px 0px 0px; opacity: 0.684211;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.2731,-0.56947,0.56947,-0.2731,445.2343020902714,267.8911265625525)" style="transform-origin: 0px 0px 0px; opacity: 0.631579;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.25034,-0.52202,0.52202,-0.25034,447.26904947886874,272.1339335778256)" style="transform-origin: 0px 0px 0px; opacity: 0.578947;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.22758,-0.47456,0.47456,-0.22758,449.3037968674663,276.3767405930992)" style="transform-origin: 0px 0px 0px; opacity: 0.526316;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.20483,-0.4271,0.4271,-0.20483,451.33854425606364,280.6195476083724)" style="transform-origin: 0px 0px 0px; opacity: 0.473684;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.18207,-0.37965,0.37965,-0.18207,453.373291644661,284.8623546236455)" style="transform-origin: 0px 0px 0px; opacity: 0.421053;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.15931,-0.33219,0.33219,-0.15931,455.40803903325843,289.1051616389189)" style="transform-origin: 0px 0px 0px; opacity: 0.368421;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.13655,-0.28473,0.28473,-0.13655,457.4427864218559,293.3479686541922)" style="transform-origin: 0px 0px 0px; opacity: 0.315789;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.11379,-0.23728,0.23728,-0.11379,459.47753381045345,297.5907756694657)" style="transform-origin: 0px 0px 0px; opacity: 0.263158;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.09103,-0.18982,0.18982,-0.09103,461.51228119905085,301.83358268473893)" style="transform-origin: 0px 0px 0px; opacity: 0.210526;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.06827,-0.14236,0.14236,-0.06827,463.54702858764824,306.0763897000121)" style="transform-origin: 0px 0px 0px; opacity: 0.157895;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.04551,-0.09491,0.09491,-0.04551,465.58177597624564,310.3191967152854)" style="transform-origin: 0px 0px 0px; opacity: 0.105263;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(-0.02275,-0.04745,0.04745,-0.02275,467.61652336484315,314.5620037305588)" style="transform-origin: 0px 0px 0px; opacity: 0.0526316;"></ellipse>
+            </g>
+            <g class="cometGroup4" fill="#25C4F2">
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.43243,0.90166,-0.90166,0.43243,946.2429931042,652.6662257883042)" style="transform-origin: 0px 0px 0px; opacity: 1;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.40967,0.85421,-0.85421,0.40967,944.3851325513317,648.7923813979053)" style="transform-origin: 0px 0px 0px; opacity: 0.947368;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.38691,0.80675,-0.80675,0.38691,942.5272719984637,644.9185370075064)" style="transform-origin: 0px 0px 0px; opacity: 0.894737;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.36415,0.75929,-0.75929,0.36415,940.6694114455956,641.0446926171078)" style="transform-origin: 0px 0px 0px; opacity: 0.842105;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.34139,0.71184,-0.71184,0.34139,938.8115508927276,637.1708482267092)" style="transform-origin: 0px 0px 0px; opacity: 0.789474;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.31863,0.66438,-0.66438,0.31863,936.9536903398596,633.2970038363103)" style="transform-origin: 0px 0px 0px; opacity: 0.736842;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.29587,0.61692,-0.61692,0.29587,935.0958297869918,629.423159445912)" style="transform-origin: 0px 0px 0px; opacity: 0.684211;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.27311,0.56947,-0.56947,0.27311,933.2379692341235,625.5493150555129)" style="transform-origin: 0px 0px 0px; opacity: 0.631579;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.25035,0.52201,-0.52201,0.25035,931.3801086812556,621.6754706651143)" style="transform-origin: 0px 0px 0px; opacity: 0.578947;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.22759,0.47456,-0.47456,0.22759,929.5222481283874,617.8016262747157)" style="transform-origin: 0px 0px 0px; opacity: 0.526316;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.20483,0.4271,-0.4271,0.20483,927.6643875755194,613.9277818843169)" style="transform-origin: 0px 0px 0px; opacity: 0.473684;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.18207,0.37964,-0.37964,0.18207,925.8065270226515,610.0539374939183)" style="transform-origin: 0px 0px 0px; opacity: 0.421053;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.15931,0.33219,-0.33219,0.15931,923.9486664697833,606.1800931035195)" style="transform-origin: 0px 0px 0px; opacity: 0.368421;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.13655,0.28473,-0.28473,0.13655,922.0908059169153,602.3062487131209)" style="transform-origin: 0px 0px 0px; opacity: 0.315789;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.11379,0.23728,-0.23728,0.11379,920.2329453640474,598.4324043227223)" style="transform-origin: 0px 0px 0px; opacity: 0.263158;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.09103,0.18982,-0.18982,0.09103,918.3750848111794,594.5585599323235)" style="transform-origin: 0px 0px 0px; opacity: 0.210526;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.06827,0.14236,-0.14236,0.06827,916.5172242583113,590.6847155419249)" style="transform-origin: 0px 0px 0px; opacity: 0.157895;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.04551,0.09491,-0.09491,0.04551,914.6593637054433,586.8108711515262)" style="transform-origin: 0px 0px 0px; opacity: 0.105263;"></ellipse>
+                <ellipse cx="0" cy="0" rx="5" ry="2" data-svg-origin="0 0" transform="matrix(0.02275,0.04745,-0.04745,0.02275,912.8015031525753,582.9370267611274)" style="transform-origin: 0px 0px 0px; opacity: 0.0526316;"></ellipse>
+            </g>
+        </g>
+        <g opacity="0.2">
+            <line class="midLine" x1="158.74" y1="330.5" x2="791.71" y2="330.5" fill="none" stroke="#25c4f2" stroke-linecap="round" stroke-linejoin="round"></line>
+            <path class="dataPath1" d="M950,.5l-316.48,660L317,.5l-158.24,330L.5.5" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="url(#heroGrad)"></path>
+            <path class="dataPath2" d="M.5,660.5l158.24-330L317,660.5,633.47.5,950,660.5" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="url(#heroGrad)"></path>
+
+        </g>
+    </g>
+</svg>
