@@ -175,7 +175,11 @@
       src="./js/main.min.js"
     ></script>
     <script>
-      window.onload = afterLoaded;
+      window.onload = function () {
+        removeLoader();
+        getArticles();
+        animateCSS(".r-img", "slideInLeft");
+      };
     </script>
   </body>
 </html>
