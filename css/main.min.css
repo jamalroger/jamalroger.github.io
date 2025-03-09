@@ -165,7 +165,7 @@ div.column.is-8:first-child {
 
 @media screen and (max-width: 768px) {
   .main-container {
-    max-width: 80%;
+    max-width: 100%;
     margin: 0 auto;
 
   }
